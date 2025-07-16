@@ -1,3 +1,0 @@
-PROGRAM Hola
-    WRITE('Hola mundo')
-END PROGRAM Hola
