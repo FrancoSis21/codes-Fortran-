@@ -38,7 +38,7 @@ El objetivo principal del proyecto es facilitar la modernización de código leg
 | Nombre                                | Correo electrónico             |
 |---------------------------------------|--------------------------------|
 | Rojas Luque Franco                    | francorl084@gmail.com          |
-| Romero charca miguel fernando         | miguelfernans@gmail.com        |
+| Romero Charca Miguel Fernando         | miguelfernans@gmail.com        |
 
 🎓 Estudiantes de Ingeniería de Sistemas  
 📍 Universidad Nacional del Altiplano – **UNAP**
