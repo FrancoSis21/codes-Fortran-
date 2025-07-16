@@ -1,36 +1,49 @@
-# Traductor Automático de Código Fortran a Python
+# 🔄 Traductor Fortran a Python — Ejercicios de Prueba
 
-Este repositorio contiene el desarrollo de un traductor automático capaz de convertir programas escritos en **Fortran** a código equivalente en **Python**. La herramienta ha sido diseñada para facilitar la modernización de software científico legado, permitiendo ejecutar código antiguo en entornos modernos de desarrollo.
+📦 Este repositorio contiene una colección de **programas en Fortran** preparados como **casos de prueba** que el traductor automático desarrollado en el proyecto puede convertir exitosamente a **Python**.  
+Estos archivos permiten verificar el correcto funcionamiento y compatibilidad del conversor construido con **Flex** y **Bison**.
 
-## 🛠️ Tecnologías Utilizadas
+---
 
-- **Flex** – Para el análisis léxico
-- **Bison** – Para el análisis sintáctico
-- **C++** – Para compilar y generar el ejecutable final
+## 📚 ¿Qué contiene este repositorio?
 
-## 🧠 ¿Qué puede traducir este compilador?
+Aquí encontrarás ejemplos reales de código Fortran que el traductor puede manejar correctamente. Cada archivo puede ser procesado directamente por el traductor y genera como resultado código Python funcional y estructurado.
 
-La herramienta soporta actualmente:
+### ✅ Ejercicios compatibles incluyen:
 
-- Declaraciones de variables: `INTEGER`, `REAL`, `CHARACTER`
-- Estructuras condicionales: `IF - THEN - ELSE - ENDIF` (incluyendo anidadas)
-- Bucles `DO` (indexados, condicionales, infinitos)
-- Funciones con y sin parámetros
-- Recursividad
-- Expresiones aritméticas y operaciones lógicas
-- Entrada/Salida: `WRITE`, `READ`
-- Llamadas a procedimientos (`CALL`)
-- Comentarios (`!`) que se traducen a `#` en Python
+- 🧮 **Expresiones aritméticas** y asignaciones
+- 🔁 **Bucles DO** (simples, anidados, infinitos)
+- 🔀 **Condicionales anidadas** (`IF - THEN - ELSE`)
+- 🧠 **Funciones** (con y sin parámetros, recursivas)
+- 🖨️ **Entrada y salida** (`WRITE`, `READ`)
+- 📊 Casos clásicos como:
+  - Factorial recursivo
+  - Verificación del Teorema de Fermat
+  - Operaciones lógicas y comparaciones
 
-## 🧪 Casos de prueba
+---
 
-Incluye varios ejemplos reales de conversión, como:
+## ⚙️ Proyecto relacionado
 
-- Cálculo del factorial con recursividad
-- Estructuras condicionales anidadas
-- Prueba computacional basada en el Último Teorema de Fermat
+Estos ejercicios forman parte del proyecto académico:
 
-Todos los programas generados en Python son funcionales, legibles y mantienen la lógica del código original en Fortran.
+> 🛠️ **“Traductor automático de Fortran a Python utilizando Flex y Bison”**
 
-## 📂 Estructura del proyecto
+El objetivo principal del proyecto es facilitar la modernización de código legado científico escrito en Fortran, migrándolo a un entorno más actual y legible como Python.
+
+---
+
+## 👨‍💻 Autores del proyecto
+
+| Nombre                           | Correo electrónico             |
+|----------------------------------|--------------------------------|
+| Carlos Alberto Fernández López  | carlos.fernandezl@unsaac.edu.pe |
+| Luis David Mejía Morales        | luis.mejia.m@unsaac.edu.pe     |
+
+🎓 Estudiantes de Ingeniería de Sistemas  
+📍 Universidad Nacional de San Antonio Abad del Cusco – **UNSAAC**
+
+---
+
+## 🗂️ Organización del repositorio
 
