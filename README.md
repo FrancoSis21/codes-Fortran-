@@ -35,15 +35,13 @@ El objetivo principal del proyecto es facilitar la modernización de código leg
 
 ## 👨‍💻 Autores del proyecto
 
-| Nombre                           | Correo electrónico             |
-|----------------------------------|--------------------------------|
-| Carlos Alberto Fernández López  | carlos.fernandezl@unsaac.edu.pe |
-| Luis David Mejía Morales        | luis.mejia.m@unsaac.edu.pe     |
+| Nombre                                | Correo electrónico             |
+|---------------------------------------|--------------------------------|
+| Rojas Luque Franco                    | francorl084@gmail.com          |
+| Romero charca miguel fernando         | miguelfernans@gmail.com        |
 
 🎓 Estudiantes de Ingeniería de Sistemas  
-📍 Universidad Nacional de San Antonio Abad del Cusco – **UNSAAC**
+📍 Universidad Nacional del Altiplano – **UNAP**
 
 ---
-
-## 🗂️ Organización del repositorio
 
