@@ -5,7 +5,7 @@ Estos archivos permiten verificar el correcto funcionamiento y compatibilidad de
 
 ---
 
-## 📚 ¿Qué contiene este repositorio?
+## 📚 ¿Qué contiene este repositorio? 
 
 Aquí encontrarás ejemplos reales de código Fortran que el traductor puede manejar correctamente. Cada archivo puede ser procesado directamente por el traductor y genera como resultado código Python funcional y estructurado.
 
